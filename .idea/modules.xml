@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/WebParsingByRegularExpressions-master.iml" filepath="$PROJECT_DIR$/WebParsingByRegularExpressions-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegEx.iml" filepath="$PROJECT_DIR$/RegEx.iml" />
     </modules>
   </component>
 </project>
